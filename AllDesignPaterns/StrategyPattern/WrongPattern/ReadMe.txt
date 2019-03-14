@@ -1,0 +1,1 @@
+﻿as you wiil find in this pattern you will found duplication code in the swim function and what if there are duck that can swim and can't fly.
